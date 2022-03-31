@@ -4,6 +4,6 @@ for i in a:
     if i<5:
         c.append(i)
 
-print(c)
+
 
 
